@@ -24,6 +24,7 @@ public class AnimalController {
 	// meu comentario do projeto - Emerson Nobre
 	// meu comentario do projeto - Diogo Menezes
 	// meu comentario do projeto - Thiago Marinho
+	// meu comentario do projeto - Misael
 	
 	@Autowired
 	AnimalRepository animalRepository;
