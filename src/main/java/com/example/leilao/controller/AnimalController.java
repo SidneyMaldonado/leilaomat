@@ -19,6 +19,8 @@ import com.example.leilao.repositories.AnimalRepository;
 @RequestMapping("animal")
 public class AnimalController {
 	
+	// meu comentario do projeto - Sidney
+	
 	@Autowired
 	AnimalRepository animalRepository;
 
